@@ -1,4 +1,4 @@
-package FacadePattern;
+package structural;
 
 /*
  * Facade (Cephe) Pattern, karmaşık bir alt sistem veya kütüphaneye basit bir arayüz sağlayan yapısal bir tasarım modelidir.
