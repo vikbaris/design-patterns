@@ -146,6 +146,7 @@ class HTMLDocumentFactory implements DocumentFactory {
     }
 }
 
+
 // Document Generator (Client)
 class ReportGenerator {
     private final Header header;
